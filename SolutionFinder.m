@@ -1,4 +1,4 @@
-%bwaaaaaaaa
+%Ben W
 %8/5/2021
 
 %% Use this to generate a solution for a given function
